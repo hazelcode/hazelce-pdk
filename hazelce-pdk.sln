@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HazelCE.PDK", "HazelCE.PDK\HazelCE.PDK.csproj", "{905B0CAC-3A5E-49F4-8104-DD3D3126C300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazelCE.PDK.Tests", "HazelCE.PDK.Tests\HazelCE.PDK.Tests.csproj", "{DFBA796F-E575-4EC7-9F01-A90C19B71272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905B0CAC-3A5E-49F4-8104-DD3D3126C300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905B0CAC-3A5E-49F4-8104-DD3D3126C300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905B0CAC-3A5E-49F4-8104-DD3D3126C300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905B0CAC-3A5E-49F4-8104-DD3D3126C300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBA796F-E575-4EC7-9F01-A90C19B71272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBA796F-E575-4EC7-9F01-A90C19B71272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBA796F-E575-4EC7-9F01-A90C19B71272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBA796F-E575-4EC7-9F01-A90C19B71272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C7CB85-610D-4C96-BF00-A07E1D30FD40}
+	EndGlobalSection
+EndGlobal
